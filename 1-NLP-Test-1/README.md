@@ -1,4 +1,4 @@
-NLP Test 1
+#NLP Test 1
 
 Following the tutorial of the following 2 and combining the methods to better understand the parameters and different approaches.		
 * https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/20_Natural_Language_Processing.ipynb#scrollTo=rs3zCb_v5HfZ		

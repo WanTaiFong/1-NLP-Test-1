@@ -5,9 +5,13 @@ Following the tutorial of the following 2 and combining the methods to better un
 * https://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/		
 		
 Sentimental Analysis using Keras imported IMDb, most likely archived data.		
+
 Given 100,000 reviews, the test will use 50% validation split		
+
 There are 88,585 unique words in this sample group and are already tokenised into numerical values		
-		
+
+
+
 Using a control group of:		
 * Batch size of 128	
 * 32-dimension vector for word embedding and 	
